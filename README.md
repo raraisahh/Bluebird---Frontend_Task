@@ -97,7 +97,7 @@ npm run test
 
 # run with coverage report
 npm run coverage
-
+```
 ---
 
 ## 🖼️ App Preview
@@ -131,14 +131,16 @@ Clicking on a search result opens the corresponding **Vehicle Detail Page**.
 ```bash
 git clone https://github.com/raraisahh/Bluebird---Frontend_Task.git
 cd bluebird-frontend-task
-
+```
 ### 2️⃣ Install dependencies:
 ```bash
 npm install
-
+```
 ### 3️⃣ Run the app in development mode:
 ```bash
 npm run dev
-
+```
 ### 4️⃣ Open your browser at:
+```bash
 http://localhost:5173
+```
