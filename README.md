@@ -31,18 +31,20 @@ This web application allows users to:
 
 ---
 
-## 🧩 Project Structure
+## 📂 Project Structure
 
+```plaintext
 src/
-├── api/ # Static API simulation (vehicles data)
-├── assets/ # Logo, background images
-├── components/ # Reusable UI components (Navbar, VehicleCard, etc.)
-├── hooks/ # Custom hooks (e.g. data fetching)
-├── layouts/ # App layouts (Navbar + Footer wrapper)
-├── pages/ # Main pages (Home, Search, Wishlist, etc.)
-├── store/ # Redux Toolkit slices and configuration
-├── utils/ # Helper functions (localStorage management)
-└── tests/ # Unit tests (Vitest)
+├── 📁 api/              # Static API simulation (vehicles data)
+├── 📁 assets/           # Logo, background images
+├── 📁 components/       # Reusable UI components (Navbar, VehicleCard, etc.)
+├── 📁 hooks/            # Custom hooks (e.g., data fetching)
+├── 📁 layouts/          # App layout wrapper (Navbar + Footer)
+├── 📁 pages/            # Main pages (Home, Search, Wishlist, etc.)
+├── 📁 store/            # Redux Toolkit slices and store configuration
+├── 📁 utils/            # Helper functions (e.g., localStorage management)
+└── 📁 tests/            # Unit tests (Vitest)
+
 
 ---
 
