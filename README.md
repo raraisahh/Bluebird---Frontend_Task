@@ -44,7 +44,7 @@ src/
 ├── 📁 store/            # Redux Toolkit slices and store configuration
 ├── 📁 utils/            # Helper functions (e.g., localStorage management)
 └── 📁 tests/            # Unit tests (Vitest)
-
+```
 
 ---
 
